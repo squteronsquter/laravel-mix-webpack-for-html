@@ -1,0 +1,10 @@
+$white: #ffffff;
+$black: rgba(0, 0, 0, 0.4);
+$ff: sans-serif;
+
+html,
+body {
+  background: $white;
+  color: $black;
+  font-family: $ff;
+}
