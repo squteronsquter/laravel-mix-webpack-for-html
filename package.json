@@ -12,12 +12,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "laravel-mix": "^4.0.16"
+    "laravel-mix": "^4.1.2"
   },
   "devDependencies": {
-    "resolve-url-loader": "2.3.1",
-    "sass": "^1.22.0",
-    "sass-loader": "7.*",
+    "resolve-url-loader": "^3.1.0",
+    "sass": "^1.22.4",
+    "sass-loader": "^7.1.0",
     "vue-template-compiler": "^2.6.10"
   }
 }
